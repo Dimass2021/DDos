@@ -1,0 +1,15 @@
+{
+  "name": "tg_ddos_bot",
+  "version": "1.0.0",
+  "description": "Telegram remote DDoS bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "MrGregor_228 & Dimass_XxX",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "request": "^2.88.2"
+  }
+}
