@@ -1,4 +1,4 @@
-let TelegramBot = require('node-telegram-bot-api');
+let TelegramBot = require('node-telegram-bot-api'); 
 let TOKEN = '5147519741:AAGzpTdTYKjo3YaLgBP6BDVE5IWZcgb-QXI';
 let bot = new TelegramBot(TOKEN, {
     polling: true
