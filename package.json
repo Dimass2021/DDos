@@ -4,7 +4,10 @@
   "description": "Telegram remote DDoS bot.",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.18.1"
   },
   "author": "MrGregor_228 & Dimass_XxX",
   "license": "ISC",
